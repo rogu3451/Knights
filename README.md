@@ -8,7 +8,7 @@
 
 # Opis Aplikacji
 
-	Knights - Aplikacja webowa utworzona w języku Java z wykorzystaniem Spring Framework implementuje wzorzec MVC 
+Knights - Aplikacja webowa utworzona w języku Java z wykorzystaniem Spring Framework implementuje wzorzec MVC 
 oraz wzorzec strategii do szybkiego przełączania bazy danych z pamieci na tryb produkcyjny.
 Aplikacja wykorzystuje Spring Boota, który łączy w całość moduły Spingowe, oparta została na
 prostej bazie danych H2, która jest niszczona z każdym zamknięciem aplikacji.
