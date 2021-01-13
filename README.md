@@ -49,4 +49,4 @@ Aplikacja została wdrożona na serwer produkcyjny pod adresem: http://134.209.2
   
   The Application was created within course "Basics of Spring Framework" to familiar with potential of this framework in details.
   
-  Demo of app: http://134.209.246.138:8080/login
+  Demo of app: http://157.230.112.45:8090/login
